@@ -1,0 +1,27 @@
+#container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background: orange;
+    top: 50px;
+    left: 200px;
+  }
+  
+  .child {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+  }
+  
+  #top-right {
+    background-color: green ;
+    top: 15px;
+    right: 25px;
+  }
+  #top-left {
+    background-color: red;
+    top: 50px;
+    left: 50px;
+  }
+  © 2021 GitHub, Inc.
+  //got code from calvin cheng
