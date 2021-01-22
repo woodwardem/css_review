@@ -2,17 +2,21 @@ header {
   position: fixed;
   background: black;
   height: 100px;
-  width: 100px;
+  width: 100%;
 }
+
+
 h1 {
   color: white;
   margin-top: 25px;
   text-align: center;
 }
+
 p {
   padding-top: 125px;
   min-height: 800px;
 }
+
 #container {
     position: relative;
     width: 600px;
