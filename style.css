@@ -54,4 +54,17 @@ p {
   }
 
   
-  
+  div {
+    width: 300px;
+    height: 300px;
+    outline: dotted 1px green;
+    background: black;
+    float: left;
+  }
+
+  section {
+    background: red;
+    clear: left;
+    width: 900px;
+    height: 300px;
+  }
